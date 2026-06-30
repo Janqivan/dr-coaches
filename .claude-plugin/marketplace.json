@@ -1,0 +1,214 @@
+{
+  "name": "dr-coach-packs",
+  "owner": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "description": "Digital Rocket coaches \u2014 install a whole pack OR any single coach. 4 packs + 30 individual coaches (31 coaches total; aimozi is a single-coach plugin). Each coach is a slash command (e.g. /negotiation-voss).",
+  "plugins": [
+    {
+      "name": "agency-builder-pack",
+      "source": "./agency-builder-pack",
+      "description": "8 coaches \u2014 agency mechanics + B2B GTM: Baker, Enns, Dixon, Campbell, Walker, Sheridan, Gerhardt, Wilcox.",
+      "category": "coach pack"
+    },
+    {
+      "name": "craft-builder-pack",
+      "source": "./craft-builder-pack",
+      "description": "9 coaches \u2014 conversion craft + verticals + solo: Wiebe, Laja, Gardner, Wolf, Robinson, Mathews, Berry, Lawyerist, Welsh.",
+      "category": "coach pack"
+    },
+    {
+      "name": "ultimate-coach-pack",
+      "source": "./ultimate-coach-pack",
+      "description": "13 coaches \u2014 negotiation, positioning, hiring, strategy, copy, ops: Voss, Dunford, Priestley, Warrillow, Smart, Marshall, Miller, Newport, Kennedy, Crabtree, Martin, Michalowicz, Blount/Roberge.",
+      "category": "coach pack"
+    },
+    {
+      "name": "aimozi",
+      "source": "./aimozi",
+      "description": "1 coach \u2014 Alex Hormozi business advisor: $100M Offers/Leads, value equation, scaling roadmap.",
+      "category": "coach pack"
+    },
+    {
+      "name": "agency-baker",
+      "source": "./coaches/agency-baker",
+      "description": "David C. Baker \u2014 agency positioning, verticalization, and economics (AGI/FTE, effective hourly rate).",
+      "category": "individual coach"
+    },
+    {
+      "name": "brand-gerhardt",
+      "source": "./coaches/brand-gerhardt",
+      "description": "Dave Gerhardt \u2014 B2B founder brand and personality-led marketing.",
+      "category": "individual coach"
+    },
+    {
+      "name": "challenger-sales-dixon",
+      "source": "./coaches/challenger-sales-dixon",
+      "description": "Matt Dixon \u2014 move complex B2B deals through indecision (Challenger, JOLT).",
+      "category": "individual coach"
+    },
+    {
+      "name": "demand-walker",
+      "source": "./coaches/demand-walker",
+      "description": "Chris Walker \u2014 demand creation vs capture; fix the source of pipeline.",
+      "category": "individual coach"
+    },
+    {
+      "name": "inbound-sheridan",
+      "source": "./coaches/inbound-sheridan",
+      "description": "Marcus Sheridan \u2014 They Ask You Answer content engine (Big 5, Selling 7).",
+      "category": "individual coach"
+    },
+    {
+      "name": "linkedin-wilcox",
+      "source": "./coaches/linkedin-wilcox",
+      "description": "AJ Wilcox \u2014 LinkedIn Ads (AMO: audience/message/offer).",
+      "category": "individual coach"
+    },
+    {
+      "name": "pricing-enns",
+      "source": "./coaches/pricing-enns",
+      "description": "Blair Enns \u2014 value-based pricing and the Win Without Pitching sales conversation.",
+      "category": "individual coach"
+    },
+    {
+      "name": "saas-pricing-campbell",
+      "source": "./coaches/saas-pricing-campbell",
+      "description": "Patrick Campbell \u2014 SaaS/subscription monetization, willingness-to-pay, tiers, churn.",
+      "category": "individual coach"
+    },
+    {
+      "name": "copy-wiebe",
+      "source": "./coaches/copy-wiebe",
+      "description": "Joanna Wiebe \u2014 conversion copywriting from voice-of-customer.",
+      "category": "individual coach"
+    },
+    {
+      "name": "cro-laja",
+      "source": "./coaches/cro-laja",
+      "description": "Peep Laja \u2014 CRO research and B2B differentiation (ResearchXL).",
+      "category": "individual coach"
+    },
+    {
+      "name": "design-gardner",
+      "source": "./coaches/design-gardner",
+      "description": "Oli Gardner \u2014 landing page design, attention ratio, message match.",
+      "category": "individual coach"
+    },
+    {
+      "name": "emotion-wolf",
+      "source": "./coaches/emotion-wolf",
+      "description": "Talia Wolf \u2014 emotional targeting CRO.",
+      "category": "individual coach"
+    },
+    {
+      "name": "founder-robinson",
+      "source": "./coaches/founder-robinson",
+      "description": "Adam Robinson \u2014 founder-led, build-in-public growth (RB2B).",
+      "category": "individual coach"
+    },
+    {
+      "name": "franchise-mathews",
+      "source": "./coaches/franchise-mathews",
+      "description": "Joe Mathews \u2014 franchise development and qualified-franchisee recruitment.",
+      "category": "individual coach"
+    },
+    {
+      "name": "immigration-berry",
+      "source": "./coaches/immigration-berry",
+      "description": "Scott Berry \u2014 immigration-law firm marketing and intake.",
+      "category": "individual coach"
+    },
+    {
+      "name": "lawfirm-lawyerist",
+      "source": "./coaches/lawfirm-lawyerist",
+      "description": "Glover + Everett \u2014 small law firm operations and marketing.",
+      "category": "individual coach"
+    },
+    {
+      "name": "solopreneur-welsh",
+      "source": "./coaches/solopreneur-welsh",
+      "description": "Justin Welsh \u2014 one-person business + LinkedIn/Content OS.",
+      "category": "individual coach"
+    },
+    {
+      "name": "authority-priestley",
+      "source": "./coaches/authority-priestley",
+      "description": "Daniel Priestley \u2014 Key Person of Influence, oversubscribed.",
+      "category": "individual coach"
+    },
+    {
+      "name": "copy-kennedy",
+      "source": "./coaches/copy-kennedy",
+      "description": "Dan Kennedy + Stefan Georgi \u2014 direct-response copy, RMBC, VSLs.",
+      "category": "individual coach"
+    },
+    {
+      "name": "deep-work-newport",
+      "source": "./coaches/deep-work-newport",
+      "description": "Cal Newport \u2014 deep work, time-block planning, slow productivity.",
+      "category": "individual coach"
+    },
+    {
+      "name": "exit-warrillow",
+      "source": "./coaches/exit-warrillow",
+      "description": "John Warrillow \u2014 build-to-sell, sellability, owner dependence.",
+      "category": "individual coach"
+    },
+    {
+      "name": "hiring-smart",
+      "source": "./coaches/hiring-smart",
+      "description": "Geoff + Brad Smart \u2014 A-player hiring (Who/A-Method, Topgrading).",
+      "category": "individual coach"
+    },
+    {
+      "name": "messaging-miller",
+      "source": "./coaches/messaging-miller",
+      "description": "Donald Miller \u2014 StoryBrand SB7, one-liner, wireframes.",
+      "category": "individual coach"
+    },
+    {
+      "name": "negotiation-voss",
+      "source": "./coaches/negotiation-voss",
+      "description": "Chris Voss \u2014 negotiation (tactical empathy, labeling, Ackerman).",
+      "category": "individual coach"
+    },
+    {
+      "name": "outbound-sales",
+      "source": "./coaches/outbound-sales",
+      "description": "Jeb Blount + Mark Roberge \u2014 outbound and pipeline math.",
+      "category": "individual coach"
+    },
+    {
+      "name": "paid-media-marshall",
+      "source": "./coaches/paid-media-marshall",
+      "description": "Perry Marshall \u2014 80/20 + Star Principle for paid media.",
+      "category": "individual coach"
+    },
+    {
+      "name": "positioning-dunford",
+      "source": "./coaches/positioning-dunford",
+      "description": "April Dunford \u2014 product positioning as competitive context.",
+      "category": "individual coach"
+    },
+    {
+      "name": "services-finance-crabtree",
+      "source": "./coaches/services-finance-crabtree",
+      "description": "Greg Crabtree \u2014 services-firm finance (Simple Numbers, LER).",
+      "category": "individual coach"
+    },
+    {
+      "name": "services-ops-mike",
+      "source": "./coaches/services-ops-mike",
+      "description": "Mike Michalowicz \u2014 Profit First, Clockwork, owner-independent ops.",
+      "category": "individual coach"
+    },
+    {
+      "name": "strategy-martin",
+      "source": "./coaches/strategy-martin",
+      "description": "Roger Martin \u2014 Playing to Win strategy cascade.",
+      "category": "individual coach"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "inbound-sheridan",
+  "version": "1.0.0",
+  "description": "Marcus Sheridan \u2014 They Ask You Answer content engine (Big 5, Selling 7).",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "dr",
+    "single-coach"
+  ]
+}

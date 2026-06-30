@@ -1,0 +1,14 @@
+{
+  "name": "saas-pricing-campbell",
+  "version": "1.0.0",
+  "description": "Patrick Campbell \u2014 SaaS/subscription monetization, willingness-to-pay, tiers, churn.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "dr",
+    "single-coach"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "agency-builder-pack",
+  "version": "1.0.0",
+  "description": "8 synthetic operator-coaches for agency mechanics and B2B GTM: /agency-baker, /pricing-enns, /challenger-sales-dixon, /saas-pricing-campbell, /demand-walker, /inbound-sheridan, /brand-gerhardt, /linkedin-wilcox.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": ["coaches", "agency", "B2B", "pricing", "sales", "demand-gen", "brand", "linkedin", "DR"]
+}

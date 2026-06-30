@@ -1,0 +1,14 @@
+{
+  "name": "demand-walker",
+  "version": "1.0.0",
+  "description": "Chris Walker \u2014 demand creation vs capture; fix the source of pipeline.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "dr",
+    "single-coach"
+  ]
+}

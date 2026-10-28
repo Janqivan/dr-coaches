@@ -1,0 +1,15 @@
+{
+  "name": "creative-cottrell",
+  "version": "2.0.0",
+  "description": "Fraser Cottrell coach v2 (standards bank): Ships 150 source transcripts (349,775 words, searchable) plus 2,248 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "meta-ads",
+    "ad-creative",
+    "fraser-cottrell"
+  ]
+}

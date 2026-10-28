@@ -1,0 +1,20 @@
+{
+  "name": "ai-visuals-flynn",
+  "version": "2.0.0",
+  "description": "Rory Flynn coach v2 (standards bank): Ships 120 source transcripts (1,591,313 words, searchable) plus 945 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "synthetic-operator",
+    "rory-flynn",
+    "jamey-gannon",
+    "midjourney",
+    "nano-banana",
+    "ai-video",
+    "ai-creative",
+    "brand-consistency"
+  ]
+}

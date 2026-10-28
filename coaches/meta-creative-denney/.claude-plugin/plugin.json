@@ -1,0 +1,23 @@
+{
+  "name": "meta-creative-denney",
+  "version": "2.0.0",
+  "description": "Dara Denney coach v2 (standards bank): Ships 602 source transcripts (2,477,473 words, searchable) plus 2,684 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "synthetic-operator",
+    "dara-denney",
+    "barry-hott",
+    "fraser-cottrell",
+    "sarah-levinger",
+    "alex-cooper",
+    "meta-ads",
+    "ad-creative",
+    "statics",
+    "ugc",
+    "hooks"
+  ]
+}

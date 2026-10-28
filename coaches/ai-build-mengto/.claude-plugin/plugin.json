@@ -1,0 +1,19 @@
+{
+  "name": "ai-build-mengto",
+  "version": "2.0.0",
+  "description": "Meng To coach v2 (standards bank): Ships 138 source transcripts (660,400 words, searchable) plus 437 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "synthetic-operator",
+    "meng-to",
+    "ai-design",
+    "claude-design",
+    "claude-code",
+    "ai-slop",
+    "web-design"
+  ]
+}

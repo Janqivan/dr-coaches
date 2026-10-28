@@ -1,0 +1,15 @@
+{
+  "name": "creative-hott",
+  "version": "2.0.0",
+  "description": "Barry Hott coach v2 (standards bank): Ships 43 source transcripts (372,328 words, searchable) plus 1,696 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "meta-ads",
+    "ad-creative",
+    "barry-hott"
+  ]
+}

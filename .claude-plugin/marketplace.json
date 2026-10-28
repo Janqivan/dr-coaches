@@ -10,205 +10,332 @@
       "name": "agency-builder-pack",
       "source": "./agency-builder-pack",
       "description": "8 coaches \u2014 agency mechanics + B2B GTM: Baker, Enns, Dixon, Campbell, Walker, Sheridan, Gerhardt, Wilcox.",
-      "category": "coach pack"
+      "category": "coach pack",
+      "version": "3.0.0"
     },
     {
       "name": "craft-builder-pack",
       "source": "./craft-builder-pack",
       "description": "9 coaches \u2014 conversion craft + verticals + solo: Wiebe, Laja, Gardner, Wolf, Robinson, Mathews, Berry, Lawyerist, Welsh.",
-      "category": "coach pack"
+      "category": "coach pack",
+      "version": "3.0.0"
     },
     {
       "name": "ultimate-coach-pack",
       "source": "./ultimate-coach-pack",
       "description": "13 coaches \u2014 negotiation, positioning, hiring, strategy, copy, ops: Voss, Dunford, Priestley, Warrillow, Smart, Marshall, Miller, Newport, Kennedy, Crabtree, Martin, Michalowicz, Blount/Roberge.",
-      "category": "coach pack"
+      "category": "coach pack",
+      "version": "3.0.0"
     },
     {
       "name": "aimozi",
       "source": "./aimozi",
       "description": "1 coach \u2014 Alex Hormozi business advisor: $100M Offers/Leads, value equation, scaling roadmap.",
-      "category": "coach pack"
+      "category": "coach pack",
+      "version": "3.0.0"
     },
     {
       "name": "agency-baker",
       "source": "./coaches/agency-baker",
       "description": "David C. Baker \u2014 agency positioning, verticalization, and economics (AGI/FTE, effective hourly rate).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "brand-gerhardt",
       "source": "./coaches/brand-gerhardt",
       "description": "Dave Gerhardt \u2014 B2B founder brand and personality-led marketing.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "challenger-sales-dixon",
       "source": "./coaches/challenger-sales-dixon",
       "description": "Matt Dixon \u2014 move complex B2B deals through indecision (Challenger, JOLT).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "demand-walker",
       "source": "./coaches/demand-walker",
       "description": "Chris Walker \u2014 demand creation vs capture; fix the source of pipeline.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "inbound-sheridan",
       "source": "./coaches/inbound-sheridan",
       "description": "Marcus Sheridan \u2014 They Ask You Answer content engine (Big 5, Selling 7).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "linkedin-wilcox",
       "source": "./coaches/linkedin-wilcox",
       "description": "AJ Wilcox \u2014 LinkedIn Ads (AMO: audience/message/offer).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "pricing-enns",
       "source": "./coaches/pricing-enns",
       "description": "Blair Enns \u2014 value-based pricing and the Win Without Pitching sales conversation.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "saas-pricing-campbell",
       "source": "./coaches/saas-pricing-campbell",
       "description": "Patrick Campbell \u2014 SaaS/subscription monetization, willingness-to-pay, tiers, churn.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "copy-wiebe",
       "source": "./coaches/copy-wiebe",
       "description": "Joanna Wiebe \u2014 conversion copywriting from voice-of-customer.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "cro-laja",
       "source": "./coaches/cro-laja",
       "description": "Peep Laja \u2014 CRO research and B2B differentiation (ResearchXL).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "design-gardner",
       "source": "./coaches/design-gardner",
       "description": "Oli Gardner \u2014 landing page design, attention ratio, message match.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "emotion-wolf",
       "source": "./coaches/emotion-wolf",
       "description": "Talia Wolf \u2014 emotional targeting CRO.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "founder-robinson",
       "source": "./coaches/founder-robinson",
       "description": "Adam Robinson \u2014 founder-led, build-in-public growth (RB2B).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "franchise-mathews",
       "source": "./coaches/franchise-mathews",
       "description": "Joe Mathews \u2014 franchise development and qualified-franchisee recruitment.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "immigration-berry",
       "source": "./coaches/immigration-berry",
       "description": "Scott Berry \u2014 immigration-law firm marketing and intake.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "lawfirm-lawyerist",
       "source": "./coaches/lawfirm-lawyerist",
       "description": "Glover + Everett \u2014 small law firm operations and marketing.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "solopreneur-welsh",
       "source": "./coaches/solopreneur-welsh",
       "description": "Justin Welsh \u2014 one-person business + LinkedIn/Content OS.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "authority-priestley",
       "source": "./coaches/authority-priestley",
       "description": "Daniel Priestley \u2014 Key Person of Influence, oversubscribed.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "copy-kennedy",
       "source": "./coaches/copy-kennedy",
       "description": "Dan Kennedy + Stefan Georgi \u2014 direct-response copy, RMBC, VSLs.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "deep-work-newport",
       "source": "./coaches/deep-work-newport",
       "description": "Cal Newport \u2014 deep work, time-block planning, slow productivity.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "exit-warrillow",
       "source": "./coaches/exit-warrillow",
       "description": "John Warrillow \u2014 build-to-sell, sellability, owner dependence.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "hiring-smart",
       "source": "./coaches/hiring-smart",
       "description": "Geoff + Brad Smart \u2014 A-player hiring (Who/A-Method, Topgrading).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "messaging-miller",
       "source": "./coaches/messaging-miller",
       "description": "Donald Miller \u2014 StoryBrand SB7, one-liner, wireframes.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "negotiation-voss",
       "source": "./coaches/negotiation-voss",
       "description": "Chris Voss \u2014 negotiation (tactical empathy, labeling, Ackerman).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "outbound-sales",
       "source": "./coaches/outbound-sales",
       "description": "Jeb Blount + Mark Roberge \u2014 outbound and pipeline math.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "paid-media-marshall",
       "source": "./coaches/paid-media-marshall",
       "description": "Perry Marshall \u2014 80/20 + Star Principle for paid media.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "positioning-dunford",
       "source": "./coaches/positioning-dunford",
       "description": "April Dunford \u2014 product positioning as competitive context.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "services-finance-crabtree",
       "source": "./coaches/services-finance-crabtree",
       "description": "Greg Crabtree \u2014 services-firm finance (Simple Numbers, LER).",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "services-ops-mike",
       "source": "./coaches/services-ops-mike",
       "description": "Mike Michalowicz \u2014 Profit First, Clockwork, owner-independent ops.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
     },
     {
       "name": "strategy-martin",
       "source": "./coaches/strategy-martin",
       "description": "Roger Martin \u2014 Playing to Win strategy cascade.",
-      "category": "individual coach"
+      "category": "individual coach",
+      "version": "3.0.0"
+    },
+    {
+      "name": "ai-build-mengto",
+      "source": "./coaches/ai-build-mengto",
+      "description": "Meng To \u2014 synthetic mastermind coach: Ships 138 source transcripts (660,400 words, searchable) plus 437 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "ai-visuals-flynn",
+      "source": "./coaches/ai-visuals-flynn",
+      "description": "Rory Flynn \u2014 synthetic mastermind coach: Ships 120 source transcripts (1,591,313 words, searchable) plus 945 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "chris-do",
+      "source": "./coaches/chris-do",
+      "description": "Chris Do \u2014 synthetic mastermind coach: full searchable corpus (2,321 transcripts, 10.2M words + 19,441 attributed extract items), a standards rubric it grades its work against, and DO / JUDGE / COACH modes. Pricing, sales, brand, personal brand, content, visual critique. Trigger: /chris-do.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "creative-cooper",
+      "source": "./coaches/creative-cooper",
+      "description": "Alex Cooper \u2014 synthetic mastermind coach: Ships 50 source transcripts (313,691 words, searchable) plus 1,223 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "creative-cottrell",
+      "source": "./coaches/creative-cottrell",
+      "description": "Fraser Cottrell \u2014 synthetic mastermind coach: Ships 150 source transcripts (349,775 words, searchable) plus 2,248 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "creative-denney",
+      "source": "./coaches/creative-denney",
+      "description": "Dara Denney \u2014 synthetic mastermind coach: Ships 249 source transcripts (731,074 words, searchable) plus 1,989 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "creative-heath",
+      "source": "./coaches/creative-heath",
+      "description": "Ben Heath \u2014 synthetic mastermind coach: Ships 594 source transcripts (1,931,662 words, searchable) plus 508 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "creative-hott",
+      "source": "./coaches/creative-hott",
+      "description": "Barry Hott \u2014 synthetic mastermind coach: Ships 43 source transcripts (372,328 words, searchable) plus 1,696 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "creative-levinger",
+      "source": "./coaches/creative-levinger",
+      "description": "Sarah Levinger \u2014 synthetic mastermind coach: Ships 32 source transcripts (230,726 words, searchable) plus 1,433 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "creative-savannah",
+      "source": "./coaches/creative-savannah",
+      "description": "Savannah Sanchez \u2014 synthetic mastermind coach: Ships 55 source transcripts (214,496 words, searchable) plus 1,211 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "facebook-creative-coach",
+      "source": "./coaches/facebook-creative-coach",
+      "description": "Seven Meta-creative practitioners (aggregate, no persona) \u2014 synthetic mastermind coach: Ships 1213 source transcripts (4,430,258 words, searchable) plus 14,481 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "meta-creative-denney",
+      "source": "./coaches/meta-creative-denney",
+      "description": "Dara Denney + named Meta-creative guests \u2014 synthetic mastermind coach: Ships 602 source transcripts (2,477,473 words, searchable) plus 2,684 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "mindset-robbins",
+      "source": "./coaches/mindset-robbins",
+      "description": "Tony Robbins \u2014 synthetic mastermind coach: Ships 113 source transcripts (1,032,674 words, searchable) plus 78 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "philosophy-rohn",
+      "source": "./coaches/philosophy-rohn",
+      "description": "Jim Rohn \u2014 synthetic mastermind coach: Ships 92 source transcripts (988,551 words, searchable) plus 203 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
+    },
+    {
+      "name": "ui-malewicz",
+      "source": "./coaches/ui-malewicz",
+      "description": "Michal Malewicz \u2014 synthetic mastermind coach: Ships 324 source transcripts (839,933 words, searchable) plus 591 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+      "version": "3.0.0"
     }
-  ]
+  ],
+  "metadata": {
+    "version": "3.0.0"
+  }
 }

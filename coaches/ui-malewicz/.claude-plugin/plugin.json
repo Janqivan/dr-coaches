@@ -1,0 +1,19 @@
+{
+  "name": "ui-malewicz",
+  "version": "2.0.0",
+  "description": "Malewicz coach v2 (standards bank): Ships 324 source transcripts (839,933 words, searchable) plus 591 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "synthetic-operator",
+    "malewicz",
+    "ui-design",
+    "web-design",
+    "design-critique",
+    "conversion",
+    "ai-design-tools"
+  ]
+}

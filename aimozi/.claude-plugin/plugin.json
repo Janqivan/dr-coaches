@@ -1,6 +1,6 @@
 {
   "name": "aimozi",
-  "version": "2.0.0",
-  "description": "AIMozi — AI business coach built on Alex Hormozi's complete body of work. $100M Offers, $100M Leads, 500+ YouTube videos, Gym Launch era content, and the $100M Scaling Roadmap. Direct, blunt, framework-driven.",
+  "version": "3.0.0",
+  "description": "Hormozi coach v2 (standards bank): Ships 612 source transcripts (3,379,409 words, searchable) plus 54 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
   "author": "Digital Rocket / Ivan Janku"
 }

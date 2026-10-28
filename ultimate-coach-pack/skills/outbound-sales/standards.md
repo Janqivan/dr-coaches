@@ -1,0 +1,120 @@
+# Jeb Blount + Mark Roberge (outbound-sales) — Standards Bank
+
+Corpus status: 122 transcripts (907090 words) in the raw layer plus canon items. Checks re-sourced on 2026-10-20; tags without YT ids were not found in transcripts. Some transcripts are by Jeb Blount Jr. or are AI-narrated book summaries (e.g. 2NIbPFfbQcA); only passages where Jeb Blount or Mark Roberge is the speaker are cited as theirs.
+
+This file is the bar. Every piece of work the coach produces or judges is graded against the checks for its task type. A check is PASS only with evidence pointed at the work itself (a line, a number, a position on the page). "Feels right" is not evidence.
+
+Two operators, never blended: Blount owns this-week behavior (prospecting, scripts, objections, closing discipline); Roberge owns this-quarter system (scorecards, hiring, comp, channel, GTM). Every output names who owns each call, inline.
+
+Known canon conflict: SKILL.md says Blount has three objection types; `objections_blount.md` (the detailed file) says four (RBO, prospecting, buying-commitment, buying). Grade against the four-type file; a three-type answer passes only if it still separates the reflex brush-off from the rest. In the transcripts Blount splits prospecting-call responses into reflex responses, brush-offs and real objections [YT:Fm0IjDlIOsw]; the four-type split is not found in transcripts.
+
+Scoring: count PASS / total for the task type. Deliver only at ≥ 85% with zero FAIL on checks marked ★. Otherwise fix and regrade (max 2 loops), then deliver with the remaining FAILs listed honestly.
+
+---
+
+## T1. Cold scripts: call, email, DM (franchisors, immigration firms, vocational schools)
+
+- ★ **The ask is a specific micro-commitment with a time.** "15 minutes Thursday at 2". "Thoughts?", "make sense?", "want to learn more?" at the end = FAIL; they hand the prospect an exit. [YT:TlQethwEMUg] (next step must be tangible and on both calendars) [canon: fanatical_prospecting_blount F4] (the 'Thoughts?' FAIL list not found in transcripts)
+- ★ **Call script runs the five steps in order and hits the ask inside 30 seconds:** first-name attention, who you are (no résumé), one-sentence reason, bridge, ask. Label each line with its step and show the word count (speaking-pace estimate, not Blount's number). [YT:fOhWyk3fGb4] (Jeb Blount Jr., not Sr.: say their name, identify yourself, then the reason for the call) [canon: fanatical_prospecting_blount F4] (30-second limit and bridge step not found in transcripts)
+- ★ **Email is 75–125 words in four parts: hook, because, ask, cap.** Count the words. Over 125 = brochure = FAIL. [canon: fanatical_prospecting_blount F5] (not found in transcripts)
+- ★ **The "because" is tied to a real signal about this prospect or niche.** The signal comes from Ivan, a retrieved fact or a supplied lead record. An invented signal or a "hope you're well" opener = FAIL. [canon: fanatical_prospecting_blount F5] (not found in transcripts)
+- **Bridge is a value statement in their world, not a feature list.** One sentence, no more than one proof point. [canon: fanatical_prospecting_blount F4] (not found in transcripts)
+- **Cap is short and low-friction.** No P.S. about awards, no social-proof bullets, no paragraph about DR. [canon: fanatical_prospecting_blount F5] (not found in transcripts)
+- **Ships with two rehearsed ledges** for the most likely brush-offs ("send me an email", "not interested"): acknowledge, bridge, smaller re-ask. Written out word for word. [YT:Q0Y46RkEsXE] (the ledge is fixed words said every time you hear a particular no) [YT:Fm0IjDlIOsw] ("that's exactly why I called" as an anchor) [canon: objections_blount F6]
+- **One niche per script.** Franchisor, immigration firm and voc school each get their own lines; a blended script fails. [canon: SKILL.md, "script library applied to DR's three niches"] (not found in transcripts)
+- **Tomorrow-morning metric is named** (dials, connects, discoveries booked) next to the script. [canon: SKILL.md, response format] (not found in transcripts)
+- **No sales-letter moves in a door-knock:** no multi-paragraph company history, no feature stack, no pitch before a reply. [canon: fanatical_prospecting_blount F5] (not found in transcripts)
+- **Sequence starts on the phone.** Call first, voicemail if no answer, then email, then a social touch; text is risky and can get the number blocked. Blount: [YT:ueKA1Z3MUlg]
+
+## T2. Objection replies (cold-call brush-offs, price pushback, "send me a proposal", "I need to think")
+
+- ★ **Objection classified before it is answered:** reflex brush-off, prospecting, buying-commitment (mid-cycle) or buying (at the close). The cue that placed it is stated. Treating a prospecting objection like a buying objection, or the reverse, is the named bug. [YT:Fm0IjDlIOsw] (reflex response vs brush-off vs real objection on a prospecting call) [YT:M0AfX22ZWxA] (Jeb Blount Jr.: a real objection is not turned around) [canon: objections_blount F1] (four-type list not found in transcripts)
+- ★ **No pitch on a reflex or prospecting objection.** The reply is a ledge or disrupt-and-pivot ending in a smaller re-ask. A 60-second value speech = FAIL. The goal is to keep the line open, not to convert on the call. [YT:Fm0IjDlIOsw] (anchor, disrupt, ask; the hardest ask in sales is getting someone's time) [YT:9UmgG25bmDI] (a cold-call price question becomes the reason to meet) [canon: objections_blount F2, F3, F7]
+- ★ **Close-stage objections are diagnosed, not rebutted.** The reply contains a question ("tell me more about what's behind that"), a three-second silence cue, and the confirm ("is that the only thing standing between us and moving forward?"). A rebuttal to a close-stage objection = FAIL. [canon: objections_blount F5] (not found in transcripts)
+- ★ **No discount without a get.** Any concession is paired with something of equal value: longer term, prepay, logo, case study, referral, scope. A flat discount or a pre-emptive price cut = FAIL. DR's fee structure is not changed unless Ivan says so. [YT:egaZ693IYOg] (Blount on price push-back: an objection is not yet accepted, a negotiation is; "protect the points", do not give away half) [canon: virtual_selling_inked_blount F8; objections_blount F9] (the paired 'get' list is canon only)
+- **The wrong handling is shown first,** then the right one, then the follow-up if they push. [canon: SKILL.md, response format] (not found in transcripts)
+- **Disrupt is followed by a pivot in the same breath.** Clever line with no re-ask = FAIL. [YT:Fm0IjDlIOsw] (anchor, then disrupt, then ask) [canon: objections_blount F7]
+- **Mid-cycle: surface, validate, reframe, advance,** and the hidden driver is named as risk, process or priority. [canon: objections_blount F4] (not found in transcripts)
+- **"Send me a proposal / info" is not obeyed blindly.** The reply surfaces what is underneath before any document goes out. [YT:Fm0IjDlIOsw] ("send me information" named as a brush-off) [canon: objections_blount F4, F9]
+- **Reframe sets the cost of inaction against the cost of action,** in the prospect's own situation, not in generic ROI language. [canon: objections_blount F4; sales_eq_blount F6] (not found in transcripts)
+- **Emotion handled before logic when the rep is the problem.** If coaching a rep who flinches, the reply names the emotion (rejection, call reluctance, need to be liked) and applies the four-step Rejection Response Protocol. "Just push through" = FAIL. [YT:Q0Y46RkEsXE] (acknowledge it feels personal, drop the "let it roll off your back" cliches, give the words that buy a quarter second) [YT:7Yfe5njMyMM] (emotional discipline decides who controls the conversation) [canon: objections_blount F8; SKILL.md behavior rules] (four-step protocol not found in transcripts)
+- **In-the-room price negotiation after the relationship has started is handed to /negotiation-voss.** Blount sets the discipline, Voss runs the live moves. [canon: objections_blount F5; SKILL.md escalation] (not found in transcripts)
+- **The ask is never shrunk to dodge objections.** Objections only exist because something was asked; fix the ledge, not the number of asks. Blount: [YT:7Yfe5njMyMM]
+
+## T3. Pipeline diagnosis and outbound plan (empty pipe, weak conversion, "what do I do this week")
+
+- ★ **The leak is located by stage with numbers:** dials or sends → connects or replies → discovery booked → proposal → close. If the numbers are missing, the output is the one clarifying question, not an essay. [YT:B1KiVu8FOvc] (Roberge: find the stage that breaks from the metrics; leads worked but no connects is a cadence problem, connects without a next step is a trust problem) [canon: SKILL.md Rule 1, Rule 3, Diagnostic Step 2]
+- ★ **Script problem, volume problem or call reluctance is ruled in or out with the dial count on the table** before any script is touched. "The script doesn't work" with no volume behind it is an emotion problem. [YT:MKrkM_KD1Uk] (Blount: troubled pipelines show too little prospecting or deals not moving to a next step) [YT:Q0Y46RkEsXE] [canon: SKILL.md Diagnostic Step 3; fanatical_prospecting_blount F7]
+- ★ **30-Day Rule made visible:** today's gap is tied to a dated revenue cliff roughly 90 days out. [YT:R8zDSgiW6I4] (what you do in a 30-day period pays off over the next 90; a month off is fatal, a week hurts, a day hurts)
+- **Law of Replacement target set from Ivan's real close rate:** 2–3 new opportunities per close; at a 33% close rate 1:1 shrinks the pipe, 3:1 holds it flat, 4:1 grows it. Show the arithmetic with his number. [canon: fanatical_prospecting_blount F2] (not found in transcripts)
+- **Block protocol is concrete:** morning, 60–120 minutes (Blount: two first appointments on a morning block of "anywhere from 60 to say 120 minutes"), calendared as immovable, phone and list only, no email, Slack or "research". Name the list and the tool. [YT:P6KNp3MDexU] [YT:Fm0IjDlIOsw] (printed list, two to three phone blocks, mornings beat after lunch) [YT:TlQethwEMUg] (start the day with the block, not CRM or email) [canon: fanatical_prospecting_blount F3] (transcripts say 60 to 120, not 60 to 90)
+- **Pipe-cleaning is called out** if CRM tidying, account research or note-updating is replacing dials. [YT:TlQethwEMUg] (opening computer, CRM or email first) [canon: fanatical_prospecting_blount F3]
+- **Lagging and leading metrics are separated;** coaching targets are leading. Hitting leading and missing lagging = skill gap, coach the conversation. Missing leading = behavior gap, manage it. [YT:B1KiVu8FOvc] (Roberge: coaching differs by which metric breaks) [canon: sales_acceleration_formula_roberge F4]
+- **Coverage is stated as quota × 3–4 in qualified pipeline;** thin coverage is traced upstream. [canon: roberge_public_corpus F5] (3–4x not found in transcripts)
+- **Blount first (this week), Roberge second (this quarter),** each named. No "the coach says". [canon: SKILL.md, response format] (not found in transcripts)
+- **No "the market is slow".** The output traces the empty pipe to inputs, inputs to behavior, behavior to emotion plus system. [YT:R8zDSgiW6I4] (Blount: the number one reason for failure is an empty pipeline, and the reason for that is not prospecting every day) [YT:8DbheTkI8ks] [canon: SKILL.md behavior rules]
+- **Dial target is a number.** Blount's own standard: 100 prospecting dials a day, his whole team does it, in about three hours; he now runs 10 to 20 targeted calls himself but expects reps to hold 100. [YT:R8zDSgiW6I4] [YT:aziA6weV6d0]
+
+## T4. Sales hire, scorecard, seat design, ramp (including promote-vs-hire)
+
+- ★ **Scorecard exists before sourcing,** written in three parts: outcomes (lagging), competencies (leading behaviors), cultural fit. No scorecard, no hire. [YT:Cyzcr3MzWHk] (Roberge: attach the role to skills, knowledge, experience in a scorecard, build the hiring process on it, force everyone to use it) [YT:zU5ZvUsGc-4] [canon: sales_acceleration_formula_roberge F1] (outcomes/competencies/fit split not found in transcripts)
+- ★ **Rep archetype is chosen for the motion first** (Hunter for net-new outbound, Educator for long consultative cycles, Closer for late-stage, Farmer for expansion), then the hire is judged against it. [canon: roberge_public_corpus F2] (four archetypes not found in transcripts; Blount only separates hunter from farmer, [YT:IQ-ay0JST8Q])
+- ★ **Coachability is tested inside the loop:** feedback delivered in one round, application checked in the next. Weighted above years of experience, employer brand and interview charisma. [YT:9gToRCbu1TU] (Roberge: send the training manual and a prospect profile, run the role play in the interview, then see how they take feedback) [YT:zU5ZvUsGc-4] (self-assessment correlates with coachability) [canon: roberge_public_corpus F7; sales_acceleration_formula_roberge F2] (weighting above experience not found in transcripts)
+- **Internal candidate scored on the same scorecard as an external one.** If they would not survive the external loop, they are not ready. [canon: SKILL.md behavior rules] (not found in transcripts)
+- **Four A-Method steps all present:** scorecard, source (several channels, volume), select (scored per line), sell (the hire is a two-way sale). [canon: sales_acceleration_formula_roberge F1] (not found in transcripts)
+- **90-day leading indicators are numbers** (dials, connects, discoveries booked, proposals sent, follow-ups within 24 hours), not adjectives. Targets come from Ivan or are marked as his to set. [canon: sales_acceleration_formula_roberge F4] (not found in transcripts)
+- **Ramp is defined, not improvised:** a written ideal sales process, a certification roleplay gate before live calls, a ramp curve with variance bands. Without these, "system failed or rep failed" cannot be answered. [canon: sales_acceleration_formula_roberge F3] (not found in transcripts)
+- **Head-of-sales hire uses the 5 Quotas question** ("how many reps you hired hit quota in year one") and asks which scorecard they hired against. [YT:jjyB6Gi_zD4] (nearest in transcripts: Roberge's investor asked one question, what percent of reps made quota) [canon: roberge_public_corpus F4] ('5 Quotas' wording not found in transcripts)
+- **Never "just hire someone hungry".** [canon: SKILL.md, what Ivan won't tolerate] (not found in transcripts)
+- **Every scorecard attribute has a defined high, medium and low score.** "If it's vibes, tell me what vibes is": three sentences, then the rubric. Roberge: [YT:zU5ZvUsGc-4] [YT:_NP1eJaGG1Q]
+- **Hire in multiples when capital allows.** Two reps at once, not one. Roberge: [YT:4KKIc-L9EBc]
+
+## T5. Comp plan design or audit
+
+- ★ **Reverse-engineer test is shown:** write the plan, list what a rational rep optimizes under it, compare to what Ivan says he wants. The mismatch is named. [YT:5bnpMYSdqbM] (Roberge: align company strategy with front-line behavior) [YT:BW9isti41Vc] (reps find loopholes; the plan creates sub-optimal behavior) [canon: sales_acceleration_formula_roberge F5; roberge_public_corpus F6]
+- ★ **Retention component present** (a second commission at 6 or 12 months) for any acquisition-paid seat. Acquisition-only comp is a churn problem. [YT:zU5ZvUsGc-4] (Roberge: variable pay tied to churn, clawbacks, top quartile doubled, churn down about 70% in six months) [YT:_n7bkrWtjCE] (churn varied by salesperson, not by CSM) [canon: sales_acceleration_formula_roberge F5] (6 or 12 month second commission not found in transcripts)
+- ★ **The rep can compute the paycheck on a napkin.** A worked example for one month is on the page with Ivan's numbers or labelled placeholders. [canon: sales_acceleration_formula_roberge F5] (not found in transcripts)
+- **Each paid event is a behavior, not a process artifact.** Discovery booked can earn a small spiff; proposal sent earns nothing. This is the v1 DR application, not a quoted Roberge rule. [canon: SKILL.md Framework 11] (not found in transcripts)
+- **Stated strategy vs comp gap audited:** strategy deck on one side, the biggest comp line items on the other. [YT:5bnpMYSdqbM] (start from the CEO's top five things this year, can comp reinforce each) [YT:K5tAbQLTeK8] (do not copy the plan from the sales leader's last company) [canon: roberge_public_corpus F6]
+- **The audit question is asked and answered:** "if a rep optimizes only for this plan, what do they do?" [YT:BW9isti41Vc] [canon: SKILL.md, response format]
+- **No invented rates, quotas or percentages.** Anything Ivan has not supplied is a placeholder he sets.
+- **Churn is traced to the seller before the product or onboarding.** Compare retention by salesperson and by CSM. Roberge: [YT:_n7bkrWtjCE] [YT:gvpR9iuaw44]
+
+## T6. Discovery, proposal, stalled deal, close and negotiation discipline
+
+- ★ **Deal qualified on Outcome, Process and Power,** each named for this deal. A great outcome call with a champion who has no power and an unmapped process = FAIL. [canon: sales_eq_blount F8] (not found in transcripts)
+- ★ **A specific next step is booked before the call ends:** named person, named time; two candidate times proposed. Gaps between touches are 3–5 days. "I'll follow up" = FAIL. [YT:TlQethwEMUg] (Blount: never leave a meeting without a defined, tangible next step on your calendar and theirs, or you land in the Call Me Maybe vortex) [canon: virtual_selling_inked_blount F3; sales_eq_blount F6] (3–5 day gaps not found in transcripts)
+- ★ **No document dump.** The proposal is walked through live or edited with the buyer; the hidden driver is surfaced first. [canon: objections_blount F9; virtual_selling_inked_blount F3] (not found in transcripts)
+- **Stall diagnosed on Desire > Fear + Inertia:** says which side is failing (wants it but won't pull the trigger = fear; likes us but not urgent = desire; agrees but won't schedule = inertia) and gives one matching intervention. [YT:MKrkM_KD1Uk] (Blount: the number one reason deals stall is that they are not moving to the next step) [YT:f5ILTHnIYkQ] (small commitments move a deal) [canon: sales_eq_blount F6] (Desire > Fear + Inertia not found in transcripts)
+- **At least one emotional touch and one tribal touch** (a named peer or reference the buyer respects), not ROI only. [canon: sales_eq_blount F3] (not found in transcripts)
+- **Trial closes precede the price conversation** ("if we solved X, would this be a fit?", "who else needs to be in the room?"). [canon: virtual_selling_inked_blount F10] (not found in transcripts)
+- **Price range surfaced in discovery;** no dodging, no mid-cycle discounting. [canon: virtual_selling_inked_blount F6] (not found in transcripts)
+- **Concession plan:** the get-menu is built before the call; the first concession is treated as the most expensive; later concessions are smaller and slower. [YT:egaZ693IYOg] (Blount: protect the points) [canon: virtual_selling_inked_blount F8]
+- **Stop selling on buying signals:** two or more physical signals (posture, pen pickup, shorter questions, eyes on the contract, implementation questions) → ask for the close. [canon: virtual_selling_inked_blount F9] (not found in transcripts)
+- **Acknowledge-Connect-Pivot used for emotional friction,** acknowledge as a statement not a question. Skipping acknowledge = FAIL on this check. [canon: sales_eq_blount F7] (not found in transcripts)
+- **Influence Triangle checked:** weakest leg of likeability, trust, authority named. The usual fix is harder questions, not more nodding. [canon: sales_eq_blount F9] (not found in transcripts)
+- **Walk-away is real,** grounded in pipeline health, and the output says so. If the rep keeps caving on price, the root cause named is the empty pipe. [YT:51mHBXTM5lQ] (Blount: a full pipeline gives confidence, an empty one makes you desperate, pushy and pitchy) [canon: virtual_selling_inked_blount F11]
+- **Video calls only:** camera on, three-bullet agenda sent 24 hours before, a re-engagement point every 5–7 minutes. [canon: virtual_selling_inked_blount F1, F2, F4] (not found in transcripts)
+
+## T7. Channel allocation and GTM design (DR's own acquisition, the SaaS, founder-led to rep-led)
+
+- ★ **Buyer awareness is sorted first:** aware of the problem → inbound; unaware or in denial → outbound. The channel mix follows that, not operator preference. [YT:usOSiolkmxE] (Roberge: an inbound lead is not about to buy; start from discovery) [canon: sales_acceleration_formula_roberge F6] (aware/unaware split not found in transcripts)
+- ★ **Diagnostic runs top-down:** PMF → playbook clarity → pipeline coverage → win-rate stability → CAC payback. No fixing a lower layer while a higher one is shaky. [YT:Asb6JhcneWM] (Roberge: at the product-market-fit stage price, quota and comp do not matter yet; they matter at go-to-market) [canon: roberge_public_corpus F5] (five-layer order not found in transcripts)
+- ★ **Pre-PMF rule respected:** founder sells until he can articulate the pattern (roughly 5–10 closed deals); then two reps; both hit quota → repeatable. A VP or head of sales before that = FAIL. [YT:_NP1eJaGG1Q] (Roberge: a coin-operator rep is a terrible hire at the product-market-fit phase; half of founders scale too early) [canon: roberge_public_corpus F3] (5–10 deals not found in transcripts)
+- **Buying journey mapped before sales stages are designed** (awareness, education, vendor research, shortlist, evaluation, decision), with the right rep behavior per stage. [YT:YH8NR36vius] [YT:p9_hQsZoFGE] (Roberge: prospect-qualify-demo-close tells you what the seller does, not what the buyer is doing; start from the buyer's journey) [canon: roberge_public_corpus F1; sales_acceleration_formula_roberge F7]
+- **"Outbound everything" challenged** when inbound infrastructure (content, citations, referrals, proof) is thin. [YT:31qehgRMCD8] (Roberge: usually 90% outbound, 10% inbound, hard to build a business that way; do both) [canon: sales_acceleration_formula_roberge F6]
+- **No feature pitch at an awareness-stage buyer.** Educate, then differentiate, then close. [YT:usOSiolkmxE] [canon: sales_acceleration_formula_roberge F7]
+- **Controllable vs variable inflow named:** partnership or referral flow is variable and cannot be the only oxygen. [canon: fanatical_prospecting_blount F1] (not found in transcripts)
+- **Founder hand-off needs three artifacts:** written playbook, hired-and-ramped first cohort, leading-indicator scorecard. "Founder still in every deal" is flagged as an unfinished playbook, not a hiring gap. [canon: roberge_public_corpus F8] (not found in transcripts)
+- **Hands off cleanly** when the real problem is positioning, strategy or messaging (/dunford, /martin, /messaging-miller). [canon: SKILL.md, escalation] (not found in transcripts)
+- **Scale is a pace, not a one-time hire.** No "hire 30 reps in January because the Excel model says so". Roberge: [YT:lnpJWzGwv2A]
+
+---
+
+## Universal checks (every output)
+
+- ★ **Retrieved before writing.** At least 3 searches run (canon-only mode: 10 at the start of a session on a new task type); the work uses at least 3 retrieved passages, cited as [canon: file Fn] until transcript IDs exist.
+- ★ **No invented quotes, numbers, stories or dates.** Every number is Ivan's, retrieved, or labelled as an estimate. The canon has no verbatim Blount or Roberge quotes beyond short phrases ("pipe is life"); do not manufacture others. Roberge's URLs are verified at org level only.
+- ★ **Did the work.** If Ivan gave a task, the output is the finished thing (script, scorecard, comp plan, reply, diagnosis), not a list of questions. One clarifying question is allowed only when a missing number blocks the work, and only after doing everything possible without it.
+- **In voice.** Blount: short, absolute, Marine cadence, "pipe is life", names the emotion. Roberge: quiet, metric-first, scorecard-first. Both named inline, never blended. None of: "just push through", "build rapport", "circle back", "just checking in".
+- **Ends with one move.** The one thing, why, what would change the call. Pick the move; no tasting menu.

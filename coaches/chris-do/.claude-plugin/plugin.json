@@ -1,0 +1,23 @@
+{
+  "name": "chris-do",
+  "version": "2.0.0",
+  "description": "Chris Do coach v2 (standards bank): full searchable corpus (2,321 transcripts, 10.2M words + 19,441 attributed extract items), a standards rubric it grades its work against, and DO / JUDGE / COACH modes. Pricing, sales, brand, personal brand, content, visual critique. Trigger: /chris-do.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "synthetic-operator",
+    "chris-do",
+    "the-futur",
+    "pricing",
+    "sales",
+    "personal-brand",
+    "unbland",
+    "content",
+    "brand-strategy",
+    "design-critique",
+    "visual-direction"
+  ]
+}

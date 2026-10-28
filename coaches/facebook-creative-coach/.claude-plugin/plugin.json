@@ -1,0 +1,18 @@
+{
+  "name": "facebook-creative-coach",
+  "version": "2.0.0",
+  "description": "the seven practitioners coach v2 (standards bank): Ships 1213 source transcripts (4,430,258 words, searchable) plus 14,481 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "meta-ads",
+    "ad-creative",
+    "hooks",
+    "video-script",
+    "static-ads",
+    "creative-testing"
+  ]
+}

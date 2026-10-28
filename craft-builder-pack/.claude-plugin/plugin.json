@@ -1,10 +1,21 @@
 {
   "name": "craft-builder-pack",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "9 synthetic operator-coaches for craft + verticals + solo: /copy-wiebe, /cro-laja, /design-gardner, /emotion-wolf, /immigration-berry, /franchise-mathews, /lawfirm-lawyerist, /solopreneur-welsh, /founder-robinson.",
   "author": {
     "name": "Ivan Janku / Digital Rocket",
     "email": "ivan@digitalrocketads.com"
   },
-  "keywords": ["coaches", "CRO", "copywriting", "design", "immigration", "franchise", "law", "solopreneur", "founder", "DR"]
+  "keywords": [
+    "coaches",
+    "CRO",
+    "copywriting",
+    "design",
+    "immigration",
+    "franchise",
+    "law",
+    "solopreneur",
+    "founder",
+    "DR"
+  ]
 }

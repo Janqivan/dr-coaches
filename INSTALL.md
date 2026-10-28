@@ -19,19 +19,19 @@ So the team installs from GitHub (Route A or B). The Drive zip is the offline ba
 **One-time setup (you, once):**
 1. Create the repo + push. From inside this folder:
    ```bash
-   ./push-to-github.sh your-org/dr-coach-packs
+   ./push-to-github.sh Janqivan/dr-coaches
    ```
    (Needs the `gh` CLI, or it falls back to `git push` against a repo you've already created.)
    Manual equivalent:
    ```bash
    git init && git add -A && git commit -m "DR coach packs" && git branch -M main
-   git remote add origin https://github.com/your-org/dr-coach-packs.git
+   git remote add origin https://github.com/Janqivan/dr-coaches.git
    git push -u origin main
    ```
 
 **Each teammate (≈30 seconds):**
 1. Claude Desktop → **Cowork** tab → **Customize** (left sidebar) → **Plugins** tab.
-2. Click **"+" → Add marketplace** → paste `https://github.com/your-org/dr-coach-packs`.
+2. Click **"+" → Add marketplace** → paste `https://github.com/Janqivan/dr-coaches`.
 3. The four packs appear. Click **Install** on each (or just the ones they need).
 4. Refresh / start a new session. Type `/` to confirm the coaches show up (e.g. `/aimozi`).
 
@@ -42,7 +42,7 @@ Private repo? Same steps — each teammate must have GitHub access to the repo.
 ## Route B — Org-admin marketplace  ← zero clicks for the team
 Best if you want everyone to get the packs automatically.
 1. Do the GitHub push from Route A (the org marketplace syncs from a repo).
-2. **Organization settings → Plugins → Add** → point it at `your-org/dr-coach-packs`.
+2. **Organization settings → Plugins → Add** → point it at `Janqivan/dr-coaches`.
 3. Add each of the four plugins and set the **installation preference** (auto-install).
 4. Team members get the packs on their next session / plugin refresh — nothing for them to do.
 
@@ -51,13 +51,13 @@ Best if you want everyone to get the packs automatically.
 ## Route C — Claude Code (CLI), if anyone uses the terminal
 ```bash
 # from a GitHub repo:
-claude plugin marketplace add your-org/dr-coach-packs
+claude plugin marketplace add Janqivan/dr-coaches
 claude plugin install agency-builder-pack@dr-coach-packs
 claude plugin install craft-builder-pack@dr-coach-packs
 claude plugin install ultimate-coach-pack@dr-coach-packs
 claude plugin install aimozi@dr-coach-packs
 ```
-Or inside an interactive session: `/plugin marketplace add your-org/dr-coach-packs` then `/plugin install <pack>@dr-coach-packs`.
+Or inside an interactive session: `/plugin marketplace add Janqivan/dr-coaches` then `/plugin install <pack>@dr-coach-packs`.
 
 ---
 

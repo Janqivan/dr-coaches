@@ -1,0 +1,15 @@
+{
+  "name": "creative-savannah",
+  "version": "2.0.0",
+  "description": "Savannah Sanchez coach v2 (standards bank): Ships 55 source transcripts (214,496 words, searchable) plus 1,211 attributed items. Grades its own work against standards.md; DO / JUDGE / COACH modes.",
+  "author": {
+    "name": "Ivan Janku / Digital Rocket",
+    "email": "ivan@digitalrocketads.com"
+  },
+  "keywords": [
+    "coach",
+    "meta-ads",
+    "ad-creative",
+    "savannah-sanchez"
+  ]
+}
